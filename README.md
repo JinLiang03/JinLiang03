@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jin 👋
 
-<!--
-**2747409416-art/2747409416-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Artist & AI-Native Product Builder**
 
-Here are some ideas to get you started:
+I explore new experiences at the intersection of AI, sensing, and creative technology — turning invisible signals, machine reasoning, and human interaction into expressive prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current exploration
+
+### Wi-Fi Spatial Council
+An experimental prototype combining Wi-Fi sensing, multi-agent reasoning, and interactive spatial experiences. It explores how non-visual signals can become legible, experiential interfaces — while keeping the limits of sensing systems explicit.
+
+## Interested in
+
+- AI-native products and creative technology
+- Intelligent sensing and AI hardware prototypes
+- Agentic systems and expressive interaction
+- Collaborations across art, design, and engineering
+
+## Let's connect
+
+I'm open to collaborating on experimental AI products, creative interfaces, and early AI-hardware ideas.
