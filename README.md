@@ -2,20 +2,21 @@
 
 **Artist & AI-Native Product Builder**
 
-I explore new experiences at the intersection of AI, sensing, and creative technology — turning invisible signals, machine reasoning, and human interaction into expressive prototypes.
+I build experimental products across AI, physical interaction, spatial experiences, and design.
 
-## Current exploration
+## Selected work
 
-### Wi-Fi Spatial Council
-An experimental prototype combining Wi-Fi sensing, multi-agent reasoning, and interactive spatial experiences. It explores how non-visual signals can become legible, experiential interfaces — while keeping the limits of sensing systems explicit.
+- **[Loyi — portfolio](https://loyi.cc)**: selected design work and interactive experiments.
+- **[Room Echo](https://github.com/JinLiang03/Room-Echo)**: a spatial-sensing and multi-agent interaction prototype, previously called Wi-Fi Spatial Council. Live hardware validation is still in progress.
+- **CAPSO**: a desktop-companion project spanning embedded firmware, expressive interfaces, electronics, and industrial design. It is an engineering prototype; device and manufacturing acceptance remain ongoing. Source repositories are private.
+- **Interactive web experiments**: a home-exploration game, The Kinetic Garden, and SpatialPlay prototypes. Device testing and deployment status vary by project.
+- **Tools for creative work**: agent evaluation, collaborative interfaces, and design-publishing workflows, currently maintained in private repositories.
 
 ## Interested in
 
 - AI-native products and creative technology
-- Intelligent sensing and AI hardware prototypes
-- Agentic systems and expressive interaction
+- Expressive interfaces and physical interaction
+- Agent tools and reproducible evaluation
 - Collaborations across art, design, and engineering
 
-## Let's connect
-
-I'm open to collaborating on experimental AI products, creative interfaces, and early AI-hardware ideas.
+Explore my work at **[Loyi.cc](https://loyi.cc)**.
